@@ -17,6 +17,6 @@ This code repository provides Python scripts for generating charts used to study
 
 
 
-Code and data availability
+**Code and data availability**
 
 The plotting scripts are available in this repository under its `LICENSE`. **The repository does not provide the station observations.** Those observations are subject to their own data-use arrangements; availability should be described in the manuscript's Data Availability statement. The MIT license for this repository's code does not grant rights to the observational data or third-party data products.
